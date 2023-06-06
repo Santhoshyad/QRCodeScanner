@@ -1,2 +1,2 @@
 # QRCodeScanner
-I developed a Scanner using React JS
+A Scanner using React JS
